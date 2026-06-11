@@ -1,0 +1,96 @@
+{
+    "Vrikshasana": {
+        "display_name": "Vrikshasana (Tree Pose)",
+        "emoji": "\ud83c\udf33",
+        "description": "Standing on one leg, other foot on inner thigh, hands in prayer or overhead.",
+        "angles": {
+            "right_knee": 180.0,
+            "right_hip": 175.0,
+            "left_knee": 50.0,
+            "left_hip": 100.0,
+            "left_shoulder": 160.0,
+            "right_shoulder": 160.0,
+            "left_elbow": 175.0,
+            "right_elbow": 175.0
+        },
+        "keywords": {
+            "right_knee": "Standing knee (should be straight)",
+            "right_hip": "Standing hip (extended)",
+            "left_knee": "Bent knee (deep fold)",
+            "left_hip": "Raised hip angle",
+            "left_shoulder": "Left arm overhead",
+            "right_shoulder": "Right arm overhead",
+            "left_elbow": "Left arm straight",
+            "right_elbow": "Right arm straight"
+        }
+    },
+    "Trikonasana": {
+        "display_name": "Trikonasana (Triangle Pose)",
+        "emoji": "\ud83d\udcd0",
+        "description": "Wide-stance side bend, both legs straight, arms open vertically.",
+        "angles": {
+            "left_knee": 175.0,
+            "right_knee": 175.0,
+            "left_hip": 65.0,
+            "right_hip": 110.0,
+            "left_shoulder": 170.0,
+            "right_shoulder": 170.0,
+            "left_elbow": 175.0,
+            "right_elbow": 175.0
+        },
+        "keywords": {
+            "left_knee": "Left knee straight",
+            "right_knee": "Right knee straight",
+            "left_hip": "Hip side bend",
+            "right_hip": "Hip side extension",
+            "left_shoulder": "Left arm vertical",
+            "right_shoulder": "Right arm vertical"
+        }
+    },
+    "Tadasana": {
+        "display_name": "Tadasana (Mountain Pose)",
+        "emoji": "\ud83c\udfd4\ufe0f",
+        "description": "Upright standing pose, feet together, arms at sides, joints extended.",
+        "angles": {
+            "left_knee": 175.0,
+            "right_knee": 175.0,
+            "left_hip": 175.0,
+            "right_hip": 175.0,
+            "left_shoulder": 15.0,
+            "right_shoulder": 15.0,
+            "left_elbow": 175.0,
+            "right_elbow": 175.0
+        },
+        "keywords": {
+            "left_knee": "Left knee straight",
+            "right_knee": "Right knee straight",
+            "left_hip": "Left hip extended",
+            "right_hip": "Right hip extended",
+            "left_shoulder": "Left arm at side",
+            "right_shoulder": "Right arm at side"
+        }
+    },
+    "Utkatasana": {
+        "display_name": "Utkatasana (Chair Pose)",
+        "emoji": "\ud83e\ude91",
+        "description": "Squat position, knees and hips bent at ~110\u00b0, arms extended up.",
+        "angles": {
+            "left_knee": 110.0,
+            "right_knee": 110.0,
+            "left_hip": 110.0,
+            "right_hip": 110.0,
+            "left_shoulder": 155.0,
+            "right_shoulder": 155.0,
+            "left_elbow": 172.0,
+            "right_elbow": 172.0
+        },
+        "keywords": {
+            "left_knee": "Left knee bent",
+            "right_knee": "Right knee bent",
+            "left_hip": "Left hip bent",
+            "right_hip": "Right hip bent",
+            "left_shoulder": "Left arm raised",
+            "right_shoulder": "Right arm raised"
+        }
+    }
+}

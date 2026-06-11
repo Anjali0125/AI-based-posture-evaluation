@@ -1,0 +1,14 @@
+{
+    "features": [
+        "left_elbow",
+        "right_elbow",
+        "left_shoulder",
+        "right_shoulder",
+        "left_hip",
+        "right_hip",
+        "left_knee",
+        "right_knee"
+    ],
+    "trained_at": "2026-06-11 21:44:01",
+    "num_samples": 1200
+}
